@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a social studies and software engineering teacher at Cambria Heights Academy.
 
+<!--
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a social studies and software engineering teacher at Cambria Heights Academy.
+-->
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mr.hamza@nycacademy.org](mailto:mr.hamza@nycacademy.org)
